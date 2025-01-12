@@ -18,7 +18,4 @@ A simple API to manage tasks with CRUD operations
 1. Clone this repository:
   ```bash
   git clone https://github.com/Infamous003/todo-api.git
-  cd todo-api
-
-2. Install dependencies using pip:
-  pip install -r requirements.txt
+  cd todo-api```
