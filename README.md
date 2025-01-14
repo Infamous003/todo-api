@@ -19,3 +19,12 @@ A simple API to manage tasks with CRUD operations
   ```bash
   git clone https://github.com/Infamous003/todo-api.git
   cd todo-api```
+
+2. Install the required dependencies
+  ```bash
+  pip install -r requirements.txt```
+
+3. Run the app using uvicorn
+  ```bash
+  uvicorn app:app --reload```
+
