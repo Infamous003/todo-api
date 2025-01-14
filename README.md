@@ -31,3 +31,5 @@ A simple API to manage tasks with CRUD operations
   uvicorn app:app --reload
   ```
 
+4. Enjoy :P
+  Open http://127.0.0.1:8000/docs on your browser

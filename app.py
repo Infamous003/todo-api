@@ -9,7 +9,7 @@ create_db_and_tables()
 
 @app.get("/")
 def index():
-  return {"nigga": "pls"}
+  return {"Hello": "World"}
 
 @app.get("/tasks")
 def get_tasks() -> list[Task]:
